@@ -1,0 +1,17 @@
+/* CSS reset*/
+*body{
+    margin: 0;
+    padding: 0;
+}
+/*CSS variables*/
+:root{
+    --navbar-height : 59px;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 10vh;
+    width: 10vw;
+}
